@@ -22,4 +22,5 @@
 
    
 </div>
-  
+
+![Snake animation](https://github.com/Khristopher22/Khristopher22/blob/output/github-contribution-grid-snake.svg)
